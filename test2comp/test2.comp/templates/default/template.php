@@ -1,13 +1,6 @@
 <? if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 	$APPLICATION->SetTitle($arResult['TEMPLATE_TITLE_PAGE']);
-	// \Bitrix\Main\Diag\Debug::dump($arParams);
-    // \Bitrix\Main\Diag\Debug::dump($arResult);
-	// if (isset($_POST['crm_stage'])) {
-	// 	// use \Bitrix\Tasks;
-	// 	// use \Bitrix\Crm\DealTable;
 
-	// 	//header('Location: https://b24-test.dodoteam.ru/crm/deal/details/56/');
-	// }
 	// echo '<pre>';
 	// 	print_r($_POST);
 	// echo '</pre>';
